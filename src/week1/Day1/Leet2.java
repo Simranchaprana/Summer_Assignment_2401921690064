@@ -1,6 +1,5 @@
 package week1.Day1;
-
-import java.lang.classfile.components.ClassPrinter.ListNode;
+import java.lang.*;
 
 //Remove Duplicates from Sorted List
 public class Leet2 {
