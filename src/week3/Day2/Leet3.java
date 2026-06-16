@@ -25,7 +25,7 @@ public class Leet3 {
     }
     return true;
   }
-    private ListNode reverseList(ListNode head) {
+  private ListNode reverseList(ListNode head) {
     ListNode prev = null;
     while (head != null) {
       ListNode next = head.next;
