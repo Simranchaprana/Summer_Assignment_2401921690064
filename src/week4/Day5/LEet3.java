@@ -5,7 +5,7 @@ import java.util.Queue;
 
 import javax.swing.tree.TreeNode;
 
-public class LEet3 {
+public class Leet3 {
      public String serialize(TreeNode root) {
        if (root == null) return "";
 
